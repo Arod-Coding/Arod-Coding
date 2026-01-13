@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Adrian Rodriguez 👋
 
-<!--
-**rodrigua13/rodrigua13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 
+Currently taking CSC-134 C++ Programming and learning to collaborate with AI tools!
 
-Here are some ideas to get you started:
+## My Foo
+I have a passion for environmental work! I hope to use the skills I learn in college to become an environmental engineer and have a lasting positive impact on this planet, as well as help as many people as I can! As for hobbies, I play tennis and volleyball, hike, and enjoy playing video games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- AI collaboration and prompt engineering
+- GitHub workflows and version control
+- Building my first AI assistants
+
+## Fun Fact
+I have visited 5 countries (Lived in 2 of the 5)
+
+## Find Me
+- Right here on GitHub!
